@@ -14,5 +14,5 @@ while(alive){
 ```
 
 This is where you can buy him
-* [Ebay](Ebay.com)
-* [OLX](olx.ua)
+* [Ebay](https://Ebay.com)
+* [OLX](https://olx.ua)
